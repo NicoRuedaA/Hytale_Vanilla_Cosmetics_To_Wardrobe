@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_HeavyWedgeBoots"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Shoes/HeavyWedgeBoots.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/HeavyWedgeBoots_Textures/HeavyWedge_TombExplorer_Texture.png"
+    }
+  }
+}

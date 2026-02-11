@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Slipons"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Shoes/Slipons.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/Slipons_Textures/SlipOns_CheckerPattern.png"
+    }
+  }
+}

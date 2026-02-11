@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_LongGloves"
+    }
+  },
+  "CosmeticSlot": "Gloves",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Gloves/LongGloves.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Gloves/LongGloves_Textures/Gloves_Savannah_Explorer.png"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_HeavyBoots"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Shoes/HeavyBoots.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/HeavyBoots_Textures/ArcticFur_Brown.png"
+    }
+  }
+}

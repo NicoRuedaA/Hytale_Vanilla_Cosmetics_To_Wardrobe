@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Cape_Leaves"
+    }
+  },
+  "CosmeticSlot": "Capes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Leaves.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Leaves_Textures/Cape_Leaves_Green_Texture.png"
+    }
+  }
+}

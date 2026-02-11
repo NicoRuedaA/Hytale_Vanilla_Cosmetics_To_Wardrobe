@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Cape_Skeleton_Wizard02"
+    }
+  },
+  "CosmeticSlot": "Capes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_DarkPurple.png"
+    }
+  }
+}

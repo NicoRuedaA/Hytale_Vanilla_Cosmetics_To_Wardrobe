@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Scarf_Large"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Face_Accessories/Scarf_Large.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Face_Accessories/Scarf_Large_Textures/Black.png"
+    }
+  }
+}

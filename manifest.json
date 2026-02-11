@@ -1,0 +1,20 @@
+{
+  "Group": "NicoRueda",
+  "Name": "Races Wardrobe",
+  "Version": "1.0.2",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "NicoRueda",
+      "Email": "nico99rueda@gmail.com",
+      "Url": "nicorueda.dev"
+    }
+  ],
+  "Website": "nicorueda.dev",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

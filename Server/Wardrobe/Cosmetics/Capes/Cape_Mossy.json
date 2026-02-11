@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Cape_Mossy"
+    }
+  },
+  "CosmeticSlot": "Capes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Mossy.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Mossy_Textures/Cape_Mossy_Texture.png"
+    }
+  }
+}

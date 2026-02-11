@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Mouth"
+    }
+  },
+  "CosmeticSlot": "Face",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Faces/Player_Face_Detached.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Faces/Faces_Detached_Textures/Older_Face.png"
+    }
+  }
+}
