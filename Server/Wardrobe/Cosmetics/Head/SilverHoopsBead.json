@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_SilverHoopsBead"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Head/SilverHoopsBead.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Head/SilverHoopsBead_Textures/Black+Grey.png"
+    }
+  }
+}

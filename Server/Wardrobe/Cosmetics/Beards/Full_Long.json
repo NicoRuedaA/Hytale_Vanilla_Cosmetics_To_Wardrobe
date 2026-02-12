@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Full_Long"
+    }
+  },
+  "CosmeticSlot": "FacialHair",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Full_Long.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Full_Long_Greyscale.png"
+    }
+  }
+}

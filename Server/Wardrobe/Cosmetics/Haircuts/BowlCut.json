@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_BowlCut"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Haircuts/BowlCut.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Haircuts/BowlCut_Greyscale.png"
+    }
+  }
+}

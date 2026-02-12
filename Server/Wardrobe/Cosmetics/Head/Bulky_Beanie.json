@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Bulky_Beanie"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Head/Bulky_Beanie.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Head/Bulky_Beanie_Textures/Bulky_Beanie_Greyscale.png"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Long_Socks"
+    }
+  },
+  "CosmeticSlot": "Overpants",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Overpants/Long_Socks.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Overpants/Long_Socks_Textures/BasicWrap_Greyscale.png"
+    }
+  }
+}

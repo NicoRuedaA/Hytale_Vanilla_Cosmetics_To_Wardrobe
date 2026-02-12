@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_WidePonytail"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Haircuts/WidePonytail.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Haircuts/WidePonytail_Greyscale.png"
+    }
+  }
+}

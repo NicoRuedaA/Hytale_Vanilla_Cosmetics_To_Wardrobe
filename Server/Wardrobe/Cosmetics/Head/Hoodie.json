@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Hoodie"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Head/Hoodie.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Head/Hoodie_Textures/Hoodie_Fantasy_Greyscale.png"
+    }
+  }
+}

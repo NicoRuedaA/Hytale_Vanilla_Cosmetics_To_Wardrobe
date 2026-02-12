@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_SimpleLong"
+    }
+  },
+  "CosmeticSlot": "FacialHair",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/SimpleLong.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/SimpleLong_Greyscale.png"
+    }
+  }
+}

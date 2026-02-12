@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_StrawHat"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Head/StrawHat.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Head/StrawHat_Textures/StrawHat_Rotten_Texture.png"
+    }
+  }
+}

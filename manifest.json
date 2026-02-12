@@ -1,0 +1,20 @@
+{
+  "Group": "NicoRueda",
+  "Name": "Vanilla Wardrobe",
+  "Version": "0.0.1",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "NicoRueda",
+      "Email": "nico99rueda@gmail.com",
+      "Url": "nicorueda.dev"
+    }
+  ],
+  "Website": "nicorueda.dev",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

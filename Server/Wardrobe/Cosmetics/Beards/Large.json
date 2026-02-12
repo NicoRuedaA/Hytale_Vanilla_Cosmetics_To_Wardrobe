@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Large"
+    }
+  },
+  "CosmeticSlot": "FacialHair",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Large.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Large_Greyscale.png"
+    }
+  }
+}

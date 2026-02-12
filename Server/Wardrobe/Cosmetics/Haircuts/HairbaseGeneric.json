@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_HairbaseGeneric"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Haircuts/HairbaseGeneric.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Haircuts/HairbaseGeneric_Greyscale.png"
+    }
+  }
+}

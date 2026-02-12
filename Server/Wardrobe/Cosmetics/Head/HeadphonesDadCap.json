@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_HeadphonesDadCap"
+    }
+  },
+  "CosmeticSlot": "HeadAccessory",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Head/HeadphonesDadCap.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Head/HeadphonesDadCap_Textures/HeadphonesDadCap_Greyscale_Texture.png"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_FrontFlick"
+    }
+  },
+  "CosmeticSlot": "Haircut",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Haircuts/FrontFlick.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Haircuts/FrontFlick_Greyscale.png"
+    }
+  }
+}

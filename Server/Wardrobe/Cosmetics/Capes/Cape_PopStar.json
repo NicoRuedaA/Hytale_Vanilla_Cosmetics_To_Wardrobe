@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Cape_PopStar"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_PopStar.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_PopStar_Textures/Cape_PopStar_Texture.png"
+    }
+  }
+}

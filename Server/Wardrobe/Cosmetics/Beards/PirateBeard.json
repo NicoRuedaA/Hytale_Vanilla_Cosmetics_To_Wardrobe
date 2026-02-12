@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_PirateBeard"
+    }
+  },
+  "CosmeticSlot": "FacialHair",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/PirateBeard.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/PirateBeard_Greyscale.png"
+    }
+  }
+}

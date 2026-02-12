@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Icecream_Skirt"
+    }
+  },
+  "CosmeticSlot": "Overpants",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Overpants/Icecream_Skirt.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Overpants/Icecream_Skirt_Textures/Icecream_Skirt_Chocolate.png"
+    }
+  }
+}

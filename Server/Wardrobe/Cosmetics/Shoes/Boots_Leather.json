@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Boots_Leather"
+    }
+  },
+  "CosmeticSlot": "Shoes",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Shoes/Boots_Leather.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/Boots_Leather_Textures/Adventurer_Greyscale.png"
+    }
+  }
+}

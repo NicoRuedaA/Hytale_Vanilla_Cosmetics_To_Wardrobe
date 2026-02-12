@@ -1,0 +1,14 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Blindfold"
+    }
+  },
+  "CosmeticSlot": "FaceAccessory",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Face_Accessories/Blindfold.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Face_Accessories/Blindfold_Textures/Blindfold_Bandage.png"
+    }
+  }
+}
