@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_PopStar_Textures/Cape_PopStar_Texture.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_PopStar.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      16,
+      165,
+      16
+    ],
+    "Translation": [
+      4,
+      -10
+    ]
   }
 }

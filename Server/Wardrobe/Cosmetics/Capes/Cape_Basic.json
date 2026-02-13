@@ -6,9 +6,30 @@
   },
   "CosmeticSlot": "Cape",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Basic.blockymodel",
-    "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Basic_Textures/Cape_Basic_Texture.png"
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Basic.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Basic_Textures/Cape_Basic_Texture.png"
+        }
+      },
+      "No_Neck": {
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Basic_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Basic_Textures/Cape_Basic_Texture.png"
+        }
+      }
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Basic.png",

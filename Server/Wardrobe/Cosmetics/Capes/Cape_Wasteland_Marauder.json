@@ -1,0 +1,48 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Cape_Wasteland_Marauder"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Wasteland_Marauder/Cape_Wasteland_Marauder.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Wasteland_Marauder/Cape_Wasteland_Marauder_Texture.png"
+        }
+      },
+      "No_Neck": {
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Wasteland_Marauder/Cape_Wasteland_Marauder_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Wasteland_Marauder/Cape_Wasteland_Marauder_Texture.png"
+        }
+      }
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Wasteland_Marauder.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      16,
+      165,
+      16
+    ],
+    "Translation": [
+      -24,
+      -71
+    ]
+  }
+}

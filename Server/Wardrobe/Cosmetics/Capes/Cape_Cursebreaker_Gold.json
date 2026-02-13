@@ -1,7 +1,7 @@
 {
   "Properties": {
     "Translation": {
-      "Name": "Races_Vanilla_Cape_Skeleton_Wizard02"
+      "Name": "Races_Vanilla_Cape_Cursebreaker_Gold"
     }
   },
   "CosmeticSlot": "Cape",
@@ -9,30 +9,30 @@
     "Type": "Variant",
     "Variants": {
       "Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02.blockymodel",
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Cursebreaker_Gold.blockymodel",
         "Properties": {
           "Translation": {
             "Name": "Neck"
           }
         },
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_DarkPurple.png"
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Cursebreaker_Gold_Texture.png"
         }
       },
       "No_Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02_NoNeck.blockymodel",
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Cursebreaker_Gold_NoShoulderPads.blockymodel",
         "Properties": {
           "Translation": {
             "Name": "No Neck"
           }
         },
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Skeleton_Wizard02_Textures/Cape_Skeleton_Wizard_DarkPurple.png"
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Cursebreaker_Gold_Texture.png"
         }
       }
     }
   },
-  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Skeleton_Wizard02.png",
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Cursebreaker_Gold.png",
   "IconProperties": {
     "Scale": 0.3,
     "Rotation": [
@@ -41,8 +41,8 @@
       16
     ],
     "Translation": [
-      -7,
-      -18
+      12,
+      7
     ]
   }
 }

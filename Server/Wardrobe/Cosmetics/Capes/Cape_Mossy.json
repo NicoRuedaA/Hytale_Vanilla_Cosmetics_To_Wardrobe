@@ -6,9 +6,43 @@
   },
   "CosmeticSlot": "Cape",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Mossy.blockymodel",
-    "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Mossy_Textures/Cape_Mossy_Texture.png"
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Mossy.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Mossy_Textures/Cape_Mossy_Texture.png"
+        }
+      },
+      "No_Neck": {
+        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Mossy_NoNeck.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "No Neck"
+          }
+        },
+        "TextureConfig": {
+          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Mossy_Textures/Cape_Mossy_Texture.png"
+        }
+      }
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Mossy.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      16,
+      165,
+      16
+    ],
+    "Translation": [
+      7,
+      -7
+    ]
   }
 }

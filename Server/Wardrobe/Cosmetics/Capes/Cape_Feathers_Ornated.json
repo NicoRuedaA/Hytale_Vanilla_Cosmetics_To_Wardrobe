@@ -1,0 +1,27 @@
+{
+  "Properties": {
+    "Translation": {
+      "Name": "Races_Vanilla_Cape_Feathers_Ornated"
+    }
+  },
+  "CosmeticSlot": "Cape",
+  "Appearance": {
+    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Feathers_Ornated.blockymodel",
+    "TextureConfig": {
+      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Featherbound_Texture.png"
+    }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Feathers_Ornated.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      16,
+      165,
+      16
+    ],
+    "Translation": [
+      1,
+      -4
+    ]
+  }
+}
