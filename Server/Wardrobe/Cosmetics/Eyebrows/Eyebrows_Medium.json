@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Eyebrows",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Eyebrows/Eyebrows_Medium.blockymodel",
+    "Model": "Characters/Body_Attachments/Eyebrows/Eyebrows_Medium.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Eyebrows/Feral.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Eyebrows/Feral.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Eyebrows_Medium.png",

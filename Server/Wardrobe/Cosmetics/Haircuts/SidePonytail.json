@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Haircut",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Haircuts/SidePonytail.blockymodel",
+    "Model": "Characters/Haircuts/SidePonytail.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Haircuts/SidePonytail_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/SidePonytail_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/SidePonytail.png",

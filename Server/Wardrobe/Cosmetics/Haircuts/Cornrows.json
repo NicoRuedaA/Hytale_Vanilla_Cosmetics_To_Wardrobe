@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Haircut",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Haircuts/Cornrows.blockymodel",
+    "Model": "Characters/Haircuts/Cornrows.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Haircuts/Cornrows_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/Cornrows_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cornrows.png",

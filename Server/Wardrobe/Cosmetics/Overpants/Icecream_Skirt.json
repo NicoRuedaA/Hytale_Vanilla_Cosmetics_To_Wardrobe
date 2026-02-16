@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Overpants",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Overpants/Icecream_Skirt.blockymodel",
+    "Model": "Cosmetics/Overpants/Icecream_Skirt.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Overpants/Icecream_Skirt_Textures/Icecream_Skirt_Chocolate.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Overpants/Icecream_Skirt_Textures/Icecream_Skirt_Strawberry.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Icecream_Skirt.png",

@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Haircut",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Haircuts/FrontTied.blockymodel",
+    "Model": "Characters/Haircuts/FrontTied.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Haircuts/FrontTied_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/FrontTied_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/FrontTied.png",

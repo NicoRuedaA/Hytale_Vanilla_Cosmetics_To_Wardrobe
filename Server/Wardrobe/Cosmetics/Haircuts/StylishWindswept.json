@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Haircut",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Haircuts/StylishWindswept.blockymodel",
+    "Model": "Characters/Haircuts/StylishWindswept.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Haircuts/StylishWindswept_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/StylishWindswept_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/StylishWindswept.png",

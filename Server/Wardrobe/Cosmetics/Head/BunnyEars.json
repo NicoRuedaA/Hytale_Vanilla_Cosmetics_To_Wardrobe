@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/BunnyEars.blockymodel",
+    "Model": "Cosmetics/Head/BunnyEars.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/BunnyEars_Textures/Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/BunnyEars_Textures/Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/BunnyEars.png",

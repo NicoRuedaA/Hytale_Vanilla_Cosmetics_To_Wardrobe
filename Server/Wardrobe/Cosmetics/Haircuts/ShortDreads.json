@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Haircut",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Haircuts/ShortDreads.blockymodel",
+    "Model": "Characters/Haircuts/ShortDreads.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Haircuts/GenericShort_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/ShortDreads_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/ShortDreads.png",

@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Haircut",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Haircuts/SuperShort.blockymodel",
+    "Model": "Characters/Haircuts/SuperShort.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Haircuts/SuperShort_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/SuperShort_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/SuperShort.png",

@@ -1,48 +1,54 @@
 {
   "Properties": {
     "Translation": {
-      "Name": "Races_Vanilla_Cape_Royal_Leaf"
+      "Name": "Hope of Gaia Cape"
     }
   },
-  "CosmeticSlot": "Cape",
   "Appearance": {
     "Type": "Variant",
     "Variants": {
-      "Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Royal_Leaf.blockymodel",
+      "Default": {
         "Properties": {
           "Translation": {
-            "Name": "Neck"
+            "Name": "Default"
           }
         },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Royal_Leaf.png",
+        "Model": "Cosmetics/Capes/Cape_Royal_Leaf.blockymodel",
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Royal_Leaf_Texture.png"
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_Royal_Leaf_Texture.png"
         }
       },
       "No_Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Royal_Leaf_NoNeck.blockymodel",
         "Properties": {
           "Translation": {
             "Name": "No Neck"
           }
         },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Royal_Leaf.png",
+        "Model": "Cosmetics/Capes/Cape_Royal_Leaf_NoNeck.blockymodel",
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Royal_Leaf_Texture.png"
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_Royal_Leaf_Texture.png"
         }
       }
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Royal_Leaf.png",
+  "CosmeticSlot": "Cape",
   "IconProperties": {
     "Scale": 0.3,
     "Rotation": [
-      16,
-      165,
-      16
+      0,
+      220,
+      0
     ],
     "Translation": [
-      14,
-      9
+      -8,
+      19
     ]
   }
 }

@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Ears",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Ears/Elf_Ear_Small.blockymodel",
+    "Model": "Characters/Body_Attachments/Ears/Elf_Ear_Small.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Ears/Elf_Ear_Small_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Ears/Elf_Ear_Small_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Ears.png",

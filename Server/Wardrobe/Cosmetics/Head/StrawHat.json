@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/StrawHat.blockymodel",
+    "Model": "Cosmetics/Head/StrawHat.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/StrawHat_Textures/StrawHat_Rotten_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/StrawHat_Textures/StrawHat_Rotten_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/StrawHat.png",

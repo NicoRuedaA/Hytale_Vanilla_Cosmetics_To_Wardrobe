@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Shoes",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Shoes/PirateBoots.blockymodel",
+    "Model": "Cosmetics/Shoes/PirateBoots.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/PirateBoots_Textures/Black.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/PirateBoots_Textures/Black.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/PirateBoots.png",

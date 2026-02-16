@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/Plaster.blockymodel",
+    "Model": "Cosmetics/Head/Plaster.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/Plaster_Textures/Yellow.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/Plaster_Textures/Yellow.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Plaster.png",

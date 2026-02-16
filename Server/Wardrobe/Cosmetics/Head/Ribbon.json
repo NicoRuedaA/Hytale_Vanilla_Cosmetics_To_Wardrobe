@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/Ribbon.blockymodel",
+    "Model": "Cosmetics/Head/Ribbon.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/Ribbon_Textures/Ribbon_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/Ribbon_Textures/Ribbon_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Ribbon.png",

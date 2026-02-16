@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/HeadphonesDadCap.blockymodel",
+    "Model": "Cosmetics/Head/HeadphonesDadCap.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/HeadphonesDadCap_Textures/HeadphonesDadCap_Greyscale_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/HeadphonesDadCap_Textures/HeadphonesDadCap_Greyscale_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/HeadphonesDadCap.png",

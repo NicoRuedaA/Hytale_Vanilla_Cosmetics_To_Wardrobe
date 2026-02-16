@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/AcornEarring.blockymodel",
+    "Model": "Cosmetics/Head/AcornEarring.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/AcornEarring_Textures/AcornEarring_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/AcornEarring_Textures/AcornEarring_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/AcornEarring.png",

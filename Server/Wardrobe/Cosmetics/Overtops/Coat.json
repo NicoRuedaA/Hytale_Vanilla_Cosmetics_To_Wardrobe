@@ -1,19 +1,20 @@
 {
-  "Properties": {
-    "Translation": {
-      "Name": "Races_Vanilla_Coat"
-    }
-  },
-  "CosmeticSlot": "Overtop",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Overtops/Coat.blockymodel",
+    "Model": "Cosmetics/Overtops/Coat.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Overtops/Coat_Textures/Coat_Greyscale.png"
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Overtops/Coat_Textures/Coat_Greyscale.png",
+      "GradientSet": "Faded_Leather"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Coat.png",
+  "Properties": {
+    "Translation": {
+      "Name": "Coat"
+    }
+  },
   "IconProperties": {
-    "Scale": 0.4,
+    "Scale": 0.35,
     "Rotation": [
       22.5,
       45,
@@ -21,7 +22,8 @@
     ],
     "Translation": [
       0,
-      -54
+      -50
     ]
-  }
+  },
+  "CosmeticSlot": "Overtop"
 }

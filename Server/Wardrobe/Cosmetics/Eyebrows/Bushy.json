@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Eyebrows",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Eyebrows/Bushy.blockymodel",
+    "Model": "Characters/Body_Attachments/Eyebrows/Bushy.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Eyebrows/Bushy_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Eyebrows/Bushy_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Bushy.png",

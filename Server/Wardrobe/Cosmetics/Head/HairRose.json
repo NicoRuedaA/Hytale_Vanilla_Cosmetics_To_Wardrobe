@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/HairRose.blockymodel",
+    "Model": "Cosmetics/Head/HairRose.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/HairRose_Textures/HairRose_Greyscale_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/HairRose_Textures/HairRose_Greyscale_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/HairRose.png",

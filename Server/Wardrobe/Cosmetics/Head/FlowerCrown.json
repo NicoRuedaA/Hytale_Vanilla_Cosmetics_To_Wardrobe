@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/FlowerCrown.blockymodel",
+    "Model": "Cosmetics/Head/FlowerCrown.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/FlowerCrown_Textures/Pink.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/FlowerCrown_Textures/Pink.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/FlowerCrown.png",

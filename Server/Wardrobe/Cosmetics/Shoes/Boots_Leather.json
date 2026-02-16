@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Shoes",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Shoes/Boots_Leather.blockymodel",
+    "Model": "Cosmetics/Shoes/Boots_Leather.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/Boots_Leather_Textures/Adventurer_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/Boots_Leather_Textures/Adventurer_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Boots_Leather.png",

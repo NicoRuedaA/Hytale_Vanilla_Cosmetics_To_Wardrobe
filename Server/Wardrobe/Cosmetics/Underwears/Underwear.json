@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Underwear",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Underwears/Underwear.blockymodel",
+    "Model": "Cosmetics/Underwears/Underwear.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Underwears/Underwear_Textures/Underwear_Bandeau_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Underwears/Underwear_Textures/Underwear_Bandeau_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Underwear.png",

@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Shoes",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Shoes/Voidbearer_Boots.blockymodel",
+    "Model": "Cosmetics/Shoes/Voidbearer_Boots.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/Voidbearer_Boots_Textures/Voidbearer_Boots_DarkGold.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/Voidbearer_Boots_Textures/Voidbearer_Boots_DarkGold.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Voidbearer_Boots.png",

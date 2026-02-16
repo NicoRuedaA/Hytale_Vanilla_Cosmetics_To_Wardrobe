@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Overpants",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Overpants/Long_Socks.blockymodel",
+    "Model": "Cosmetics/Overpants/Long_Socks.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Overpants/Long_Socks_Textures/BasicWrap_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Overpants/Long_Socks_Textures/StripedSocks_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Long_Socks.png",

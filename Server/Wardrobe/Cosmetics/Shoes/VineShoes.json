@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Shoes",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Shoes/VineShoes.blockymodel",
+    "Model": "Cosmetics/Shoes/VineShoes.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/VineShoes_Textures/VineShoes_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/VineShoes_Textures/VineShoes_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/VineShoes.png",

@@ -6,22 +6,12 @@
   },
   "CosmeticSlot": "FacialHair",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/GoateeLong.blockymodel",
+    "Model": "Characters/Body_Attachments/Beards/GoateeLong.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/GoateeLong_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Beards/GoateeLong_Greyscale.png"
     }
   },
-  "Icon": "Icons/Wardrobe/CosmeticsGenerated/GoateeLong.png",
-  "IconProperties": {
-    "Scale": 0.58823,
-    "Rotation": [
-      22.5,
-      45,
-      22.5
-    ],
-    "Translation": [
-      -10,
-      -69
-    ]
-  }
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/GoateeLong.png"
 }

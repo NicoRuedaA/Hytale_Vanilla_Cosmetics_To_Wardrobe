@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/ElfHat.blockymodel",
+    "Model": "Cosmetics/Head/ElfHat.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/ElfHat_Textures/ElfHat_Greyscale_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/ElfHat_Textures/ElfHat_Greyscale_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/ElfHat.png",

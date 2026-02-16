@@ -1,27 +1,27 @@
 {
   "Properties": {
     "Translation": {
-      "Name": "Races_Vanilla_Cape_PopStar"
+      "Name": "PopStar Cape"
     }
   },
   "CosmeticSlot": "Cape",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_PopStar.blockymodel",
-    "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_PopStar_Textures/Cape_PopStar_Texture.png"
+    "Type": "Variant",
+    "Variants": {
+      "Neck": {
+        "Model": "Cosmetics/Capes/Cape_PopStar.blockymodel",
+        "Properties": {
+          "Translation": {
+            "Name": "Neck"
+          }
+        },
+        "TextureConfig": {
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_PopStar_Textures/Cape_PopStar_Texture.png"
+        }
+      }
     }
   },
-  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_PopStar.png",
-  "IconProperties": {
-    "Scale": 0.3,
-    "Rotation": [
-      16,
-      165,
-      16
-    ],
-    "Translation": [
-      4,
-      -10
-    ]
-  }
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_PopStar.png"
 }

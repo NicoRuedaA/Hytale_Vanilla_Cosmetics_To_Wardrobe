@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Mouth",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Mouths/Mouth1.blockymodel",
+    "Model": "Characters/Body_Attachments/Mouths/Mouth1.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Mouths/Mouth_Large.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Mouths/Mouth_Large.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Mouth.png",

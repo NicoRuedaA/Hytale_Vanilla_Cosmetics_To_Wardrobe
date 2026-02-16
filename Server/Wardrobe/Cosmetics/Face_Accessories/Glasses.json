@@ -1,14 +1,17 @@
 {
+  "CosmeticSlot": "FaceAccessory",
   "Properties": {
     "Translation": {
-      "Name": "Races_Vanilla_Glasses"
+      "Name": "Glasses",
+      "Description": ""
     }
   },
-  "CosmeticSlot": "FaceAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Face_Accessories/Glasses.blockymodel",
+    "Model": "Cosmetics/Face_Accessories/Glasses.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Face_Accessories/Glasses_Textures/Agent_Glasses_Greyscale.png"
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Face_Accessories/Glasses_Textures/Glasses_Greyscale.png",
+      "GradientSet": "Colored_Cotton"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Glasses.png",

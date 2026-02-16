@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Shoes",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Shoes/HeavyWedgeBoots.blockymodel",
+    "Model": "Cosmetics/Shoes/HeavyWedgeBoots.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/HeavyWedgeBoots_Textures/HeavyWedge_TombExplorer_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/HeavyWedgeBoots_Textures/HeavyWedge_TombExplorer_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/HeavyWedgeBoots.png",

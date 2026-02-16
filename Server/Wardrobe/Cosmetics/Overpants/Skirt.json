@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Overpants",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Overpants/Skirt.blockymodel",
+    "Model": "Cosmetics/Overpants/Skirt.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Overpants/Skirt_Textures/Crinkled_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Overpants/Skirt_Textures/Crinkled_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Skirt.png",

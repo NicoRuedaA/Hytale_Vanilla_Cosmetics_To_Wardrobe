@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Shoes",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Shoes/FrostyWarm_Boots.blockymodel",
+    "Model": "Cosmetics/Shoes/FrostyWarm_Boots.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/FrostyWarm_Boots_Textures/FrostyWarmBoots_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/FrostyWarm_Boots_Textures/FrostyWarmBoots_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/FrostyWarm_Boots.png",

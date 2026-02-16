@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/Bandana.blockymodel",
+    "Model": "Cosmetics/Head/Bandana.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/Bandana_Textures/Bandana_Skulls_Greyscale_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/Bandana_Textures/Bandana_Skulls_Greyscale_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Bandana.png",

@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Haircut",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Haircuts/Frizzy_Volume.blockymodel",
+    "Model": "Characters/Haircuts/Frizzy_Volume.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Haircuts/Frizzy_Volume_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Haircuts/Frizzy_Volume_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Frizzy_Volume.png",

@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Shoes",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Shoes/HiBoots.blockymodel",
+    "Model": "Cosmetics/Shoes/HiBoots.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/HiBoots_Textures/Black.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/HiBoots_Textures/Black.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/HiBoots.png",

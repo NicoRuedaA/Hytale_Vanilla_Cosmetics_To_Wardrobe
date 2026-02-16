@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/SimpleEarring.blockymodel",
+    "Model": "Cosmetics/Head/SimpleEarring.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/SimpleEarring_Textures/Copper.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/SimpleEarring_Textures/Copper.png"
     }
   }
 }

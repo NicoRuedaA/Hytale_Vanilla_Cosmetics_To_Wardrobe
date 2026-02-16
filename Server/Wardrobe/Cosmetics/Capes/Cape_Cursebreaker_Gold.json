@@ -1,48 +1,52 @@
 {
   "Properties": {
     "Translation": {
-      "Name": "Races_Vanilla_Cape_Cursebreaker_Gold"
+      "Name": "New Beginning Cape"
     }
   },
-  "CosmeticSlot": "Cape",
   "Appearance": {
     "Type": "Variant",
     "Variants": {
-      "Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Cursebreaker_Gold.blockymodel",
+      "Default": {
         "Properties": {
           "Translation": {
-            "Name": "Neck"
+            "Name": "Default"
           }
         },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Cursebreaker_Gold.png",
+        "Model": "Cosmetics/Capes/Cape_Cursebreaker_Gold.blockymodel",
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Cursebreaker_Gold_Texture.png"
+          "Type": "Static",
+          "Texture": "Cosmetics/Capes/Cape_Cursebreaker_Gold_Texture.png"
         }
       },
       "No_Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Cursebreaker_Gold_NoShoulderPads.blockymodel",
         "Properties": {
           "Translation": {
-            "Name": "No Neck"
+            "Name": "No Shoulder Pads"
           }
         },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Cursebreaker_Gold.png",
+        "Model": "Cosmetics/Capes/Cape_Cursebreaker_Gold_NoShoulderPads.blockymodel",
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Cursebreaker_Gold_Texture.png"
+          "Type": "Static",
+          "Texture": "Cosmetics/Capes/Cape_Cursebreaker_Gold_Texture.png"
         }
       }
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Cursebreaker_Gold.png",
+  "CosmeticSlot": "Cape",
   "IconProperties": {
     "Scale": 0.3,
     "Rotation": [
-      16,
-      165,
-      16
+      0,
+      220,
+      0
     ],
     "Translation": [
-      12,
-      7
+      -8,
+      23
     ]
   }
 }

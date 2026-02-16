@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "FacialHair",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/DoubleBraid.blockymodel",
+    "Model": "Characters/Body_Attachments/Beards/DoubleBraid.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/DoubleBraid_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Beards/DoubleBraid_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/DoubleBraid.png",

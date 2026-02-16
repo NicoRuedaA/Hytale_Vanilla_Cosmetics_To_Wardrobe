@@ -6,22 +6,12 @@
   },
   "CosmeticSlot": "FacialHair",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Full.blockymodel",
+    "Model": "Characters/Body_Attachments/Beards/Full.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/DoubleBraid_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Beards/Full_Greyscale.png"
     }
   },
-  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Full.png",
-  "IconProperties": {
-    "Scale": 0.4,
-    "Rotation": [
-      22.5,
-      45,
-      22.5
-    ],
-    "Translation": [
-      0,
-      -78
-    ]
-  }
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Full.png"
 }

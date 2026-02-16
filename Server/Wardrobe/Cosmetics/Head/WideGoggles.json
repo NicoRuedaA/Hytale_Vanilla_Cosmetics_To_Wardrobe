@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/WideGoggles.blockymodel",
+    "Model": "Cosmetics/Head/WideGoggles.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/WideGoggles_Textures/WideGoggles_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/WideGoggles_Textures/WideGoggles_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/WideGoggles.png",

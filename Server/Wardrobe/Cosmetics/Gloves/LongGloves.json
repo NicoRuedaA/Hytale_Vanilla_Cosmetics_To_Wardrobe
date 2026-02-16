@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Gloves",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Gloves/LongGloves.blockymodel",
+    "Model": "Cosmetics/Gloves/LongGloves.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Gloves/LongGloves_Textures/Gloves_Savannah_Explorer.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Gloves/LongGloves_Textures/Gloves_Savannah_Explorer.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/LongGloves.png",

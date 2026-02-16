@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/Popstar_Hat.blockymodel",
+    "Model": "Cosmetics/Head/Popstar_Hat.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/Popstar_Hat_Textures/Artic_Scout.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/Popstar_Hat_Textures/Artic_Scout.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Popstar_Hat.png",

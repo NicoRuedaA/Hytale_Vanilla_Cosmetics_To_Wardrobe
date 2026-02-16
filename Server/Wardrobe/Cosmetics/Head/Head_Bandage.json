@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "HeadAccessory",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Head/Head_Bandage.blockymodel",
+    "Model": "Cosmetics/Head/Head_Bandage.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Head/Head_Bandage_Textures/Head_Bandage_White.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Head/Head_Bandage_Textures/Head_Bandage_White.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Head_Bandage.png",

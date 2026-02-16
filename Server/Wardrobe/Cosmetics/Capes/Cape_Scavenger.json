@@ -1,48 +1,54 @@
 {
   "Properties": {
     "Translation": {
-      "Name": "Races_Vanilla_Cape_Scavenger"
+      "Name": "Scavenger Cape"
     }
   },
-  "CosmeticSlot": "Cape",
   "Appearance": {
     "Type": "Variant",
     "Variants": {
-      "Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Scavenger.blockymodel",
+      "Default": {
         "Properties": {
           "Translation": {
-            "Name": "Neck"
+            "Name": "Default"
           }
         },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Scavenger.png",
+        "Model": "Cosmetics/Capes/Cape_Scavenger.blockymodel",
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Scavenger_Texture.png"
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_Scavenger_Texture.png"
         }
       },
       "No_Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Scavenger_NoNeck.blockymodel",
         "Properties": {
           "Translation": {
             "Name": "No Neck"
           }
         },
+        "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Scavenger.png",
+        "Model": "Cosmetics/Capes/Cape_Scavenger_NoNeck.blockymodel",
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Scavenger_Texture.png"
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Cape_Scavenger_Texture.png"
         }
       }
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Scavenger.png",
+  "CosmeticSlot": "Cape",
   "IconProperties": {
     "Scale": 0.3,
     "Rotation": [
-      16,
-      165,
-      16
+      0,
+      220,
+      0
     ],
     "Translation": [
-      5,
-      8
+      -1,
+      24
     ]
   }
 }

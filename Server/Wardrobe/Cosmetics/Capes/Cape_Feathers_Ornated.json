@@ -1,27 +1,30 @@
 {
   "Properties": {
     "Translation": {
-      "Name": "Races_Vanilla_Cape_Feathers_Ornated"
+      "Name": "Featherbound Cape"
     }
   },
-  "CosmeticSlot": "Cape",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Feathers_Ornated.blockymodel",
+    "Type": "Model",
+    "Model": "Cosmetics/Capes/Cape_Feathers_Ornated.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Capes/Cape_Featherbound_Texture.png"
+      "Type": "Gradient",
+      "GrayscaleTexture": "Cosmetics/Capes/Cape_Featherbound_Texture.png",
+      "GradientSet": "Colored_Cotton"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Feathers_Ornated.png",
+  "CosmeticSlot": "Cape",
   "IconProperties": {
     "Scale": 0.3,
     "Rotation": [
-      16,
-      165,
-      16
+      0,
+      220,
+      0
     ],
     "Translation": [
-      1,
-      -4
+      -10,
+      1
     ]
   }
 }

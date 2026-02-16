@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Eyebrows",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Characters/Body_Attachments/Eyebrows/Shaved.blockymodel",
+    "Model": "Characters/Body_Attachments/Eyebrows/Shaved.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Eyebrows/Shaved_Greyscale.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Characters/Body_Attachments/Eyebrows/Shaved_Greyscale.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/Shaved.png",

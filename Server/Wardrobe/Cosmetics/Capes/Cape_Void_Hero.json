@@ -1,7 +1,7 @@
 {
   "Properties": {
     "Translation": {
-      "Name": "Races_Vanilla_Cape_Void_Hero"
+      "Name": "Void Hero Cape"
     }
   },
   "CosmeticSlot": "Cape",
@@ -9,40 +9,32 @@
     "Type": "Variant",
     "Variants": {
       "Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Void_Hero.blockymodel",
+        "Model": "Cosmetics/Capes/Cape_Void_Hero.blockymodel",
         "Properties": {
           "Translation": {
             "Name": "Neck"
           }
         },
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Void_Hero_Cape.png"
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Void_Hero_Cape.png"
         }
       },
       "No_Neck": {
-        "Model": "Characters/Wardrobe/Cosmetics/Capes/Cape_Void_Hero_NoNeck.blockymodel",
+        "Model": "Cosmetics/Capes/Cape_Void_Hero_NoNeck.blockymodel",
         "Properties": {
           "Translation": {
             "Name": "No Neck"
           }
         },
         "TextureConfig": {
-          "Texture": "Characters/Wardrobe/Cosmetics/Capes/Void_Hero_Cape.png"
+          "Type": "Gradient",
+          "GradientSet": "Colored_Cotton",
+          "GrayscaleTexture": "Cosmetics/Capes/Void_Hero_Cape.png"
         }
       }
     }
   },
-  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Void_Hero.png",
-  "IconProperties": {
-    "Scale": 0.3,
-    "Rotation": [
-      16,
-      165,
-      16
-    ],
-    "Translation": [
-      10,
-      21
-    ]
-  }
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Cape_Void_Hero.png"
 }

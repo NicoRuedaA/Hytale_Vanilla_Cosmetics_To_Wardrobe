@@ -6,9 +6,11 @@
   },
   "CosmeticSlot": "Shoes",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Shoes/QuiltedBoots.blockymodel",
+    "Model": "Cosmetics/Shoes/QuiltedBoots.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/QuiltedBoots_Textures/QuiltedBoots_Texture.png"
+      "Type": "Gradient",
+      "GradientSet": "Hair",
+      "GrayscaleTexture": "Cosmetics/Shoes/QuiltedBoots_Textures/QuiltedBoots_Texture.png"
     }
   },
   "Icon": "Icons/Wardrobe/CosmeticsGenerated/QuiltedBoots.png",
